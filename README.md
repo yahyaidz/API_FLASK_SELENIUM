@@ -1,7 +1,3 @@
-Sure, here's a template you can use as documentation for your API:
-
----
-
 # API Documentation
 
 ## Overview
